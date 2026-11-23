@@ -1,7 +1,8 @@
+
 # Homework: nạp dữ liệu IMDb vào PostgreSQL bằng 2 cách và so sánh tốc độ
 
-Bài tập: tìm dataset lớn gồm nhiều file (mỗi file > 1 triệu dòng), viết script Python
-nạp thủ công vào database nhiều bảng bằng **2 cách**, rồi so sánh.
+## Họ và tên: Nguyễn Trung Hiếu - MSV: 23001606
+
 
 ## Dữ liệu
 
